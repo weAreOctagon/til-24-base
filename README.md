@@ -1,4 +1,4 @@
-# BrainHack TIL-24 Base
+# BrainHack TIL-24 Base Octagon
 
 ## Important Links
 
