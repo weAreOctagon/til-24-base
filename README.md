@@ -1,4 +1,4 @@
-# BrainHack TIL-24 Base Octagon (DO NOT USE) 
+# BrainHack TIL-24 Base Octagon (DO NOT USE!!) 
 
 Updated GitHub [here](https://github.com/NGXZS/til-24-base.git)
 
